@@ -1,0 +1,46 @@
+/* styles/global.css */
+.app-container {
+  min-height: 100vh;
+  padding-top: 2rem;
+  transition: background 0.5s ease-in-out;
+}
+
+/* Default fallback */
+.default {
+  background: linear-gradient(to right, #a1c4fd, #c2e9fb);
+}
+
+/* Clear / Sunny */
+.clear {
+  background: linear-gradient(to right, #fceabb, #f8b500); /* sunny yellow */
+}
+
+/* Partly Cloudy / Scattered Clouds */
+.clouds {
+  background: linear-gradient(to right, #d7d2cc, #304352); /* gray-blue */
+}
+
+/* Rainy */
+.rain {
+  background: linear-gradient(to right, #314755, #26a0da); /* dark blue-gray */
+}
+
+/* Snowy */
+.snow {
+  background: linear-gradient(to right, #e6dada, #274046); /* frosty blue-gray */
+}
+
+/* Thunderstorm */
+.thunderstorm {
+  background: linear-gradient(to right, #141e30, #243b55); /* dark stormy */
+}
+
+/* Drizzle */
+.drizzle {
+  background: linear-gradient(to right, #83a4d4, #b6fbff); /* soft rainy blue */
+}
+
+/* Mist / Fog */
+.mist {
+  background: linear-gradient(to right, #606c88, #3f4c6b);
+}
