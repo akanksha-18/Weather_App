@@ -7,7 +7,7 @@ A responsive weather dashboard built using **React.js** + **Vite** that fetches 
 ## 📸 Preview
 ![image](https://github.com/user-attachments/assets/764a2569-042c-4d08-bf9f-4fac9046173c)
 
-Hosted Link :
+Hosted Link :  https://weather-app-six-orcin-75.vercel.app/
 ---
 
 ## 🛠️ Features
@@ -26,7 +26,7 @@ Hosted Link :
 ```bash
 # 1. Clone the repository
 git clone https://github.com/yourusername/weather-dashboard.git
-cd weather-dashboard
+
 
 # 2. Install dependencies
 npm install
